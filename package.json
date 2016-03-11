@@ -1,0 +1,16 @@
+{
+	"name": "jonwebapp",
+	"version": "0.1.0",
+	"description": "Http router/load balancer based on seaport and bouncy.",
+	"author": "Jon Börjesson <jon@spuun.se">,
+	"engines": {
+		"node": ">= 5.8.0"
+	},
+  "main": "./lib/index.js",
+	"license": "MIT",
+  "dependencies": {
+    "bouncy": "^3.2.2",
+    "express": "^4.13.4",
+    "seaport": "^2.0.9"
+  }
+}

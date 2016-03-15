@@ -2,7 +2,7 @@
 	"name": "jonwebapp",
 	"version": "0.1.0",
 	"description": "Http router/load balancer based on seaport and bouncy.",
-	"author": "Jon Börjesson <jon@spuun.se">,
+	"author": "Jon Börjesson <jon@spuun.se>",
 	"engines": {
 		"node": ">= 5.8.0"
 	},

@@ -16,7 +16,7 @@ server.on('log', (msg) => {
 
 Application (app1.example.com):
 ```javascript
-var webapp = require('jobwebapp');
+var webapp = require('jonwebapp');
 
 // 'app1' is the subdomain we want our app to use. 
 // app is an express instance
